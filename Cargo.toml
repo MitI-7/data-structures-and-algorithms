@@ -8,3 +8,7 @@ edition = "2024"
 [[example]]
 name = "library_checker_min_cost_b_flow"
 path = "examples/library_checker/min_cost_b_flow.rs"
+
+[[example]]
+name = "library_checker_bipartitematching"
+path = "examples/library_checker/bipartitematching.rs"
